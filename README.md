@@ -29,3 +29,9 @@ source .venv/bin/activate
  ```shell
  pip freeze > requirements.txt
  ```
+ ## 8. Guardar cambios 
+ '''shell
+  git add .
+  git commit -m "UPDATED"
+  git push -u origin main
+  '''
